@@ -47,3 +47,5 @@ subject.addObserver(maloch);
 
 // Push location to team
 subject.notify({ long: 456, lat: 123});
+
+console.log("Hello 123");
