@@ -1,0 +1,1 @@
+console.log('This is design pattern js');
