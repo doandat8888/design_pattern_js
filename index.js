@@ -8,3 +8,6 @@ console.log('This is factory pattern');
 
 // Strategy pattern
 console.log('This is strategy pattern');
+
+// Observer pattern
+console.log('This is observer pattern');
